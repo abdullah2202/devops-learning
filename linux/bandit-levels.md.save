@@ -131,38 +131,14 @@
 
 ## Level 19
 ### Password
-- 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
+- KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
 
 ### Commands
-- Run binary as other user
+- ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 
 ## Level 20
 ### Password
-- bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
+- 
 
 ### Commands
-- Set up a nc server echo current password and then pass port to binary
-
-## Level 21
-### Password
-- RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz
-
-### Commands
-- Open the cronjob and check what it runs. then open the bash file and see it creates a file with the password. Password was in this file.
-
-## Level 22
-### Password
-- gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
-
-### Commands
-- Read the cron job and find file whe=ich is created with the password
-
-## Level 23
-### Password
-- hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
-
-### Commands
-- Create a bash script which copies the password to a file that you have permissions to see. The script file is saved as level23.sh
-
-
-
+- 
