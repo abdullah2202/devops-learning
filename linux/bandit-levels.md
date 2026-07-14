@@ -78,4 +78,60 @@
 ### Commands
 - ls -l, base64 -d data.txt
 
+## Level 12
+### Password 
+- GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
 
+## Commands
+- cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+## Level 13
+### Password 
+- qQYQiHOBPR8zR61qxYqX45quvihF2uzk
+
+### Commands
+- mktemp, tar, gzip, bzip2, mv, cp
+
+## Level 14
+
+### Password
+- aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
+
+### Commands
+- scp, ssh -i sshkey.private
+
+## Level 15
+### Password
+- pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+
+### Commands
+- nc localhost 30000
+
+## Level 16
+### Password
+- kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
+
+### Commands
+- openssl s_client
+
+## Level 17
+### Password
+- SSH Key
+
+### Commands
+- openssl s_client -connect localhost:31790 -ign_eof
+
+
+## Level 18 
+### Password
+- OQxXZjELndr90zuhOTDYBEomI0SZITXI
+
+### Commands
+- diff passwords.old passwords.new
+
+## Level 19
+### Password
+- 
+
+### Commands
+- 
